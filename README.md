@@ -13,5 +13,5 @@ python2 setup.py
 python2 eternity.py
 ```
 ## Screenshots
-![alt tag](https://github.com/Cyb3rD3m0n/DarkEternity-Framework/blob/master/Dark_Eternity.jpg
-
+![alt tag](https://github.com/Cyb3rD3m0n/DarkEternity-Framework/blob/master/Dark_Eternity.jpg)
+ 
