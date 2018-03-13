@@ -1,8 +1,9 @@
 # Dark Eternity  
 ![forthebadge](https://img.shields.io/badge/Python-2.7-green.svg)
 ![forthebadge](https://img.shields.io/aur/license/yaourt.svg)
-
-### version 1.0  
+![forthebadge]{https://img.shields.io/badge/core%20version-1.0-blue.svg}
+ 
+### version 1.0  
 ###### setup dark eternity  
 ```
 python2 setup.py
